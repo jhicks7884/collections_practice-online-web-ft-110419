@@ -3,7 +3,7 @@ def sort_array_asc(array)
 end
 
 sort_array_asc_desc(array)
-array.sort do |left, right|
+array.sort do | left, right|
   right <=> left
  end
 end
