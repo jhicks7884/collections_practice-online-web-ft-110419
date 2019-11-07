@@ -7,3 +7,5 @@ def sort_array_desc(array)
     right <=> left
   end
 end
+
+sort_array_char_count(["dogs, "cats", "horses"])
