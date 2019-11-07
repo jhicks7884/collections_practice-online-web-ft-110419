@@ -8,4 +8,4 @@ def sort_array_desc(array)
   end
 end
 
-sort_array_char_count(["dogs, "cats", "horses"])
+sort_array_char_count(["dogs", "cats", "horses"])
