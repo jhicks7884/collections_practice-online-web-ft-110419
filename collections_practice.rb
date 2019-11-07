@@ -60,7 +60,7 @@ def sum_array(array)
     sum+=num
   end
   sum
-end 
+end
   # using reduce method
     # array.reduce(:+)
 
